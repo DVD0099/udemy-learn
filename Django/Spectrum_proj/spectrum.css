@@ -1,0 +1,32 @@
+h1{
+  font-family: 'Gloria Hallelujah', cursive; text-align: center;
+}
+
+table{
+  margin: auto;
+}
+
+td{
+  height: 200px;
+  padding: 100px;
+  border: 6px solid white;
+}
+#first{
+  background-color: #3B56B9;
+}
+
+#second{
+  background-color: #828AD2;
+}
+
+#third{
+  background-color: #3CB3FC;
+}
+
+#fourth{
+  background-color: #F1E900;
+}
+
+#fifth{
+  background-color: #A33737
+}
